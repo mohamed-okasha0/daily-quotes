@@ -1,0 +1,29 @@
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+
+p {
+    font-size: 35px;
+}
+
+button {
+    width: 250px;
+    height: 80px;
+    background-color: pink;
+    color: black; 
+    transition: all .5s;
+    border-radius: 10px;
+}
+
+
+
+button:hover {
+    background-color: darkblue;
+    color: white;
+}
+
